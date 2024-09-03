@@ -49,7 +49,7 @@
 
 ### **[김승민](https://github.com/Booreung)**
 - 역할: Back-end + Front-end 보조
-- 소개: "우리가 안 한 게 뭐가 있지? ... 맞담? 맞아 종답!"
+- 소개: "우리가 안 한 게 뭐가 있지? ... 테스트?? 맞아 종답!"
 
 ### **[서준명](https://github.com/astroboy5)**
 - 역할: Front-end
